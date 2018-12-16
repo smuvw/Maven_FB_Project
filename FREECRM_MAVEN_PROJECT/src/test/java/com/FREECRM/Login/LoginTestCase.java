@@ -7,6 +7,7 @@ public class LoginTestCase {
 	@Test
 	public void LoginFreeCRM() {
 		System.out.println("this is test case");
+		System.out.println("welcome to java");
 	}
 
 }
